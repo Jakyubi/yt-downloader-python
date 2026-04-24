@@ -1,2 +1,4 @@
 /downloaded
 *.exe
+/build
+script.spec
